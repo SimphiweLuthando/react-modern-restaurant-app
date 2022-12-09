@@ -1,20 +1,19 @@
 # Restaurant Landing Page
-### [Live Site](https://gericht-restaurant.com/)
+### [Live Site](https://lustrous-melomakarona-ab3ac5.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
 ## Introduction
-This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
+This is a code repository for the React modern restaurant project on my portfolio site. It features a dynamic menu including table reservation
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+## How It's Made
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+__Tech used:__ HTML, CSS, Javascript, React JS
+
+Here I had to utilize functional components and their reusability to efficiently create the different elements of the app. You will also notice the use of clean React file and folder structure.
+
+The CSS aspect of the app makes use of flex and grid to help create a modern responsive feel to the app as well as have animations and complex gradients
+
+
+
